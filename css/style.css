@@ -1,9 +1,9 @@
 @font-face{
-    src: url(/SanamDeklen_chaya/SanamDeklen_chaya.ttf);
+    src: url(web/SanamDeklen_chaya/SanamDeklen_chaya.ttf);
     font-family: dee ;
 }
 body{
-    background-image: url(folder/drawing-illustration-anime-cartoon-your-name-Kimi-no-Na-Wa-9182-wallhere.com\ \(1\).png);
+    background-image: url(/web/folder/yourname.png);
 }
 h1 {
     font-size: 10mm;
